@@ -1,0 +1,14 @@
+{
+    "datapath": "processed_deck_data.csv",
+    "hidden_layers": [
+        50,
+        40,
+        30,
+        20,
+        10
+    ],
+    "input_size": 16,
+    "num_epochs": 502,
+    "timestamp": "20250702_161348",
+    "learning_rate": 0.0001
+}

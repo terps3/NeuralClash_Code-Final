@@ -1,0 +1,13 @@
+This folder contains:
+  - RAW_BattlesStaging_01012021_WL_tagged_new.zip
+		The raw data before preprocessing (zipped csv)
+  - preproc_.py
+		The code to preprocess the data
+  - factor_functions.py
+		The code to turn the preprocessed data into features
+  - FEATURES-processed_deck_data.zip
+		The processed feature data (zipped csv)
+  - full_model_code.ipynb
+		Jupyter notebook that contains code that was used to create, train and test the model, and to create graphs and charts
+  - neural_network-last_final.html
+		HTML version of the jupyter notebook
